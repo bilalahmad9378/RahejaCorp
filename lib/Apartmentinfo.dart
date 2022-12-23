@@ -9,6 +9,7 @@ class information extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      //main branch
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         backgroundColor: Colors.white24,
